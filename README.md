@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_Available_for_new_projects-1a1a1a?style=flat-square&labelColor=1a1a1a" alt="Available" />
+  <a href="https://calendly.com/haroonzuberi/30min"><img src="https://img.shields.io/badge/🟢_Available_for_new_projects-1a1a1a?style=flat-square&labelColor=1a1a1a" alt="Available for new projects" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=haroonzuberi&style=flat-square&color=E4B429&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=haroonzuberi&base=10000&style=flat-square&color=E4B429&label=Profile+views" alt="Profile views" />
 </p>
 
 <br />
