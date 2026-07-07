@@ -1,16 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="465" height="195" viewBox="0 0 465 195">
-  <rect width="465" height="195" rx="4.5" fill="#1a1b27" stroke="#565f89" stroke-width="1"/>
-  <text x="25" y="35" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600">haroonzuberi's GitHub Stats</text>
-  <text x="25" y="78" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Stars:</text>
-  <text x="140" y="78" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">2</text>
-  <text x="25" y="108" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Public Repos:</text>
-  <text x="140" y="108" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">19</text>
-  <text x="25" y="138" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Followers:</text>
-  <text x="140" y="138" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">3</text>
-  <text x="25" y="168" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Forks:</text>
-  <text x="140" y="168" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">1</text>
-  <text x="250" y="78" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Following:</text>
-  <text x="345" y="78" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">1</text>
-  <text x="250" y="108" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Gists:</text>
-  <text x="345" y="108" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">0</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="195" viewBox="0 0 465 195" fill="none" role="img" aria-label="GitHub statistics">
+  <defs>
+    <linearGradient id="s_bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0d12"/>
+    </linearGradient>
+    <style>
+      @keyframes s_in { 0% { opacity:0; transform: translateY(6px);} 100% { opacity:1; transform: translateY(0);} }
+      .si { opacity:0; animation: s_in .5s ease-out forwards; }
+      .d1{animation-delay:.15s}.d2{animation-delay:.25s}.d3{animation-delay:.35s}.d4{animation-delay:.45s}.d5{animation-delay:.55s}.d6{animation-delay:.65s}
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="464" height="194" rx="14" fill="url(#s_bg)" stroke="#30363d"/>
+  <rect x="0" y="0" width="4" height="195" rx="2" fill="#58a6ff"/>
+  <text x="26" y="38" fill="#58a6ff" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="18" font-weight="700">Haroon's GitHub Snapshot</text>
+  <line x1="26" y1="52" x2="439" y2="52" stroke="#30363d"/>
+
+  <g font-family="'Segoe UI',Ubuntu,sans-serif">
+    <g class="si d1"><text x="26" y="86" fill="#8b949e" font-size="14">⭐ Total Stars</text><text x="200" y="86" fill="#3fb950" font-size="15" font-weight="700" text-anchor="end">2</text></g>
+    <g class="si d2"><text x="26" y="118" fill="#8b949e" font-size="14">📦 Public Repos</text><text x="200" y="118" fill="#3fb950" font-size="15" font-weight="700" text-anchor="end">19</text></g>
+    <g class="si d3"><text x="26" y="150" fill="#8b949e" font-size="14">🍴 Forks</text><text x="200" y="150" fill="#3fb950" font-size="15" font-weight="700" text-anchor="end">1</text></g>
+    <g class="si d4"><text x="252" y="86" fill="#8b949e" font-size="14">👥 Followers</text><text x="439" y="86" fill="#58a6ff" font-size="15" font-weight="700" text-anchor="end">3</text></g>
+    <g class="si d5"><text x="252" y="118" fill="#8b949e" font-size="14">🤝 Following</text><text x="439" y="118" fill="#58a6ff" font-size="15" font-weight="700" text-anchor="end">1</text></g>
+    <g class="si d6"><text x="252" y="150" fill="#8b949e" font-size="14">🔥 Contributions</text><text x="439" y="150" fill="#58a6ff" font-size="15" font-weight="700" text-anchor="end">4,152</text></g>
+  </g>
+  <text x="26" y="180" fill="#6e7681" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="11">Coding since Jan 2017 · Available for freelance and contract work</text>
 </svg>
