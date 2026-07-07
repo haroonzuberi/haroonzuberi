@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E4B429&center=true&vCenter=true&width=720&lines=AI+Automation+Expert+and+Consultant;I+build+AI+agents+with+n8n%2C+LangGraph+and+Claude;MVP+and+SaaS+Engineer;Idea+to+launch+in+weeks%2C+not+months" alt="What I do" />
-  </a>
+  <img src="assets/typing.svg" alt="AI Automation Expert and Consultant · I build AI agents with n8n and LangGraph · MVP and SaaS Engineer · From idea to launch in weeks" width="620" />
 </p>
 
 <!-- ════════════════════════ PRIMARY CTA ════════════════════════ -->
@@ -190,13 +188,6 @@ Have an idea, a process that keeps slowing you down, or a product you want to ge
   <a href="https://haroonzuberi.com"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1a1a?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" /></a>
   &nbsp;
   <a href="mailto:haroonzuberi11@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-1a1a1a?style=for-the-badge&labelColor=1a1a1a" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <!-- TODO: replace with your real LinkedIn / X handles -->
-  <a href="https://linkedin.com/in/haroonzuberi"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=E4B429" alt="LinkedIn" /></a>
-  <a href="https://github.com/haroonzuberi"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=E4B429" alt="GitHub" /></a>
-  <a href="https://twitter.com/haroonzuberi"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=E4B429" alt="X" /></a>
 </p>
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
