@@ -107,21 +107,21 @@ Infra and tools
 <!-- ════════════════════════ FEATURED WORK ════════════════════════ -->
 ## 🏆 Some things I've built
 
-<!-- TODO (Haroon): add real links (Live / Code) under each project, and a metric line if you have one. -->
+<!-- Optional (Haroon): add a one-line result/metric under each project if you have one. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>FocusBlade</h3>
+      <h3><a href="https://focusblade.com">FocusBlade</a></h3>
       An AI-powered task manager that helps you plan your day and stay focused on what actually matters.
       <br/><br/>
-      <sub>AI task manager · add link</sub>
+      <sub>AI task manager · <a href="https://focusblade.com">focusblade.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>ArenaOps</h3>
+      <h3><a href="https://arenaops.pk">ArenaOps</a></h3>
       A management platform for sports complexes that keeps bookings, teams, and daily operations in one place.
       <br/><br/>
-      <sub>SaaS platform · add link</sub>
+      <sub>SaaS platform · <a href="https://arenaops.pk">arenaops.pk</a></sub>
     </td>
   </tr>
 </table>
