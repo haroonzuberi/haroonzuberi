@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="195" viewBox="0 0 465 195">
+  <rect width="465" height="195" rx="4.5" fill="#1a1b27" stroke="#565f89" stroke-width="1"/>
+  <text x="25" y="35" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600">haroonzuberi's GitHub Stats</text>
+  <text x="25" y="78" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Stars:</text>
+  <text x="140" y="78" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">2</text>
+  <text x="25" y="108" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Public Repos:</text>
+  <text x="140" y="108" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">19</text>
+  <text x="25" y="138" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Followers:</text>
+  <text x="140" y="138" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">3</text>
+  <text x="25" y="168" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Forks:</text>
+  <text x="140" y="168" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="250" y="78" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Following:</text>
+  <text x="345" y="78" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="250" y="108" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Gists:</text>
+  <text x="345" y="108" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">0</text>
+</svg>

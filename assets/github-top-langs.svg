@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
+  <rect width="300" height="180" rx="4.5" fill="#1a1b27" stroke="#565f89" stroke-width="1"/>
+  <text x="20" y="30" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
+  <text x="20" y="55" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">TypeScript</text>
+  <rect x="110" y="43" width="130" height="10" rx="2" fill="#3178c6"/>
+  <text x="250" y="55" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">85.97%</text>
+  <text x="20" y="83" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">PHP</text>
+  <rect x="110" y="71" width="13" height="10" rx="2" fill="#3572A5"/>
+  <text x="250" y="83" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">8.48%</text>
+  <text x="20" y="111" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">CSS</text>
+  <rect x="110" y="99" width="8" height="10" rx="2" fill="#f1e05a"/>
+  <text x="250" y="111" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">3.48%</text>
+  <text x="20" y="139" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">JavaScript</text>
+  <rect x="110" y="127" width="8" height="10" rx="2" fill="#e34c26"/>
+  <text x="250" y="139" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">1.50%</text>
+  <text x="20" y="167" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML</text>
+  <rect x="110" y="155" width="8" height="10" rx="2" fill="#00ADD8"/>
+  <text x="250" y="167" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">0.57%</text>
+</svg>
