@@ -11,8 +11,7 @@
 
 <!-- ════════════════════════ PRIMARY CTA ════════════════════════ -->
 <p align="center">
-  <!-- TODO: replace the cal.com link below with your real booking URL -->
-  <a href="https://cal.com/haroonzuberi"><img src="https://img.shields.io/badge/📅_Book_a_Free_Intro_Call-E4B429?style=for-the-badge&labelColor=1a1a1a" alt="Book a call" /></a>
+  <a href="https://calendly.com/haroonzuberi/30min"><img src="https://img.shields.io/badge/📅_Book_a_Free_Intro_Call-E4B429?style=for-the-badge&labelColor=1a1a1a" alt="Book a call" /></a>
   &nbsp;
   <a href="https://haroonzuberi.com"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-1a1a1a?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" /></a>
 </p>
@@ -108,26 +107,21 @@ Infra and tools
 <!-- ════════════════════════ FEATURED WORK ════════════════════════ -->
 ## 🏆 Some things I've built
 
-<!--
-  TODO (Haroon): add 2 or 3 real projects. For each, fill in the three lines
-  and add real links. Delete this comment and the placeholder rows when done.
--->
+<!-- TODO (Haroon): add real links (Live / Code) under each project, and a metric line if you have one. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project one <sub><i>(placeholder)</i></sub></h3>
-      What they needed: the problem the client had.<br/>
-      What I built: what you shipped and the tools you used.<br/>
-      The result: a real outcome, like hours saved or users gained.<br/>
-      <sub>Live · Code</sub>
+      <h3>FocusBlade</h3>
+      An AI-powered task manager that helps you plan your day and stay focused on what actually matters.
+      <br/><br/>
+      <sub>AI task manager · add link</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>Project two <sub><i>(placeholder)</i></sub></h3>
-      What they needed: the problem the client had.<br/>
-      What I built: what you shipped and the tools you used.<br/>
-      The result: a real outcome, like a product launched in weeks.<br/>
-      <sub>Live · Code</sub>
+      <h3>ArenaOps</h3>
+      A management platform for sports complexes that keeps bookings, teams, and daily operations in one place.
+      <br/><br/>
+      <sub>SaaS platform · add link</sub>
     </td>
   </tr>
 </table>
@@ -137,10 +131,34 @@ Infra and tools
 <!-- ════════════════════════ TESTIMONIAL ════════════════════════ -->
 ## 💬 What clients say
 
-<!-- TODO (Haroon): replace with a real quote and name. Remove this section if you have none yet. -->
-> "A short, honest quote from a client about how the work went and what it changed for them."
->
-> Client name, their role at their company
+<!-- Verified client reviews from Upwork. TODO (Haroon): double-check wording matches your profile exactly. -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      "Haroon is an all star!"
+      <br/><br/>
+      <sub>Jim · MVP Development · via Upwork</sub>
+    </td>
+    <td width="50%" valign="top">
+      "Very consistent and reliable. High quality with excellent attention to detail."
+      <br/><br/>
+      <sub>Mark Buckingham · AI Services · via Upwork</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      "Excellent at communicating and anticipating needs. The project was delivered on time and on budget."
+      <br/><br/>
+      <sub>Jacob Lutz · MVP Development · via Upwork</sub>
+    </td>
+    <td width="50%" valign="top">
+      "Great communication and deep craft knowledge over a long-term project, and always willing to adapt."
+      <br/><br/>
+      <sub>Alan Nagar · SaaS Development · via Upwork</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -167,8 +185,7 @@ Infra and tools
 Have an idea, a process that keeps slowing you down, or a product you want to get off the ground? Send me a message. The first call is free, and there is no pressure.
 
 <p align="center">
-  <!-- TODO: replace with your real booking URL -->
-  <a href="https://cal.com/haroonzuberi"><img src="https://img.shields.io/badge/📅_Book_a_Free_Call-E4B429?style=for-the-badge&labelColor=1a1a1a" alt="Book a call" /></a>
+  <a href="https://calendly.com/haroonzuberi/30min"><img src="https://img.shields.io/badge/📅_Book_a_Free_Call-E4B429?style=for-the-badge&labelColor=1a1a1a" alt="Book a call" /></a>
   &nbsp;
   <a href="https://haroonzuberi.com"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1a1a?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" /></a>
   &nbsp;

@@ -48,27 +48,17 @@
     <!-- ░░ LEFT: identity ░░ -->
     <g transform="translate(64,70)">
       <g class="r1">
-        <rect x="0" y="0" width="232" height="30" rx="15" fill="#1c1a12" stroke="#E4B429" stroke-width="1.1" stroke-opacity="0.6"/>
-        <circle cx="18" cy="15" r="4" fill="#E4B429"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
-        <text x="32" y="20" fill="#EAE6D9" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">AI AUTOMATION · MVP ENGINEER</text>
+        <circle cx="6" cy="8" r="4.5" fill="#E4B429"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+        <text x="20" y="12.5" fill="#8F8A79" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.4">Available for new projects</text>
       </g>
 
-      <text class="r2" x="0" y="92" fill="url(#gold)" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="50" font-weight="800" letter-spacing="-0.5">Haroon Zuberi</text>
+      <text class="r2" x="-1" y="66" fill="url(#gold)" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="48" font-weight="800" letter-spacing="-0.5">Haroon Zuberi</text>
 
-      <text class="r3" x="2" y="132" fill="#EAE6D9" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="21" font-weight="500">I build <tspan fill="#F2CB4D" font-weight="700">AI automations</tspan> and ship <tspan fill="#F2CB4D" font-weight="700">SaaS MVPs</tspan>.</text>
+      <text class="r3" x="1" y="98" fill="#E4B429" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="17" font-weight="600">AI Automation Expert · MVP &amp; SaaS Engineer</text>
 
-      <g class="r4" transform="translate(0,150)" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12.5" font-weight="600">
-        <g>
-          <rect x="0" y="0" width="120" height="26" rx="6" fill="#1c1a12" stroke="#2c2a22"/>
-          <text x="60" y="17" fill="#E4B429" text-anchor="middle">AI Automation Expert</text>
-        </g>
-        <g transform="translate(132,0)">
-          <rect x="0" y="0" width="128" height="26" rx="6" fill="#1c1a12" stroke="#2c2a22"/>
-          <text x="64" y="17" fill="#E4B429" text-anchor="middle">MVP &amp; SaaS Engineer</text>
-        </g>
-      </g>
+      <text class="r4" x="1" y="130" fill="#EAE6D9" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="20" font-weight="500">I build <tspan fill="#F2CB4D" font-weight="700">AI automations</tspan> and ship <tspan fill="#F2CB4D" font-weight="700">SaaS MVPs</tspan>.</text>
 
-      <text class="r5" x="1" y="205" fill="#8F8A79" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13">n8n · LangChain · LangGraph · Claude · Next.js · FastAPI · Python</text>
+      <text class="r5" x="1" y="160" fill="#8F8A79" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13">n8n · LangChain · LangGraph · Claude · Next.js · FastAPI · Python</text>
     </g>
 
     <!-- ░░ RIGHT: rotating globe ░░ -->
